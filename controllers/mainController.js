@@ -2,8 +2,11 @@ const User = require("../models/User");
 const bcrypt = require("bcrypt");
 
 exports.homeIndex = (req, res) => { res.render("home"); };
-exports.userIndex = (req, res) => { res.render("user"); };
-exports.adminIndex = (req, res) => { res.render("admin"); };
+exports.uzenetIndex = (req, res) => { res.render("uzenet"); };
+exports.crudIndex = (req, res) => { res.render("admin"); };
+exports.adatbazisIndex = (req, res) => { res.render(""); };
+exports.kapcsolatIndex = (req, res) => { res.render(""); };
+exports.diagramIndex = (req, res ) => { res.render(""); };
 
 exports.registerGet = (req, res) => { res.render("register"); };
 exports.registerPost = async (req, res) => {
@@ -32,9 +35,9 @@ exports.loginPost = async (req, res) => {
     }
     req.session.user = { id: user._id, username: user.username, role: user.role };
     if (user.role === "admin") {
-        res.redirect("/admin");
+        res.redirect("/");
     } else {
-        res.redirect("/user");
+        res.redirect("/");
     }
 };
 exports.logout = (req, res) => {
