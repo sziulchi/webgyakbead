@@ -1,12 +1,17 @@
 const User = require("../models/User");
+const suti = require("../models/suti");
+const ar = require("../models/ar")
+const tartalom = require("../models/tartalom")
 const bcrypt = require("bcrypt");
 
 exports.homeIndex = (req, res) => { res.render("home"); };
 exports.uzenetIndex = (req, res) => { res.render("uzenet"); };
-exports.crudIndex = (req, res) => { res.render("admin"); };
-exports.adatbazisIndex = (req, res) => { res.render(""); };
-exports.kapcsolatIndex = (req, res) => { res.render(""); };
-exports.diagramIndex = (req, res ) => { res.render(""); };
+exports.crudIndex = (req, res) => { res.render("crud"); };
+exports.adatbazisIndex = (req, res) => { res.render("adatbazis"); };
+exports.kapcsolatIndex = (req, res) => { res.render("kapcsolat"); };
+exports.diagramIndex = (req, res ) => { res.render("diagram"); };
+
+
 
 exports.registerGet = (req, res) => { res.render("register"); };
 exports.registerPost = async (req, res) => {
@@ -40,6 +45,16 @@ exports.loginPost = async (req, res) => {
         res.redirect("/");
     }
 };
+
 exports.logout = (req, res) => {
     req.session.destroy(() => { res.redirect("/"); });
 };
+
+
+
+exports.adatbazisIndex = async (req, res) => {
+    const sutik = await suti.find().sort({nev: 1 });
+    const arak = await ar.find();
+    const tartalmak = await tartalom.find();
+    res.render("adatbazis", {sutik, arak, tartalmak});
+}

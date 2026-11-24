@@ -29,7 +29,7 @@ id	sutiid	ertek	egyseg
 28	126	2100	rúd
 29	64	750	db
 30	109	300	db
-31	66	350	
+31	66	350	db
 32	89	13200	24 szeletes
 33	98	15400	24 szeletes
 34	24	7400	16 szeletes
@@ -170,7 +170,7 @@ id	sutiid	ertek	egyseg
 169	37	11400	24 szeletes
 170	74	11400	24 szeletes
 171	103	650	db
-172	43	4200	kg 
+172	43	4200	kg
 173	12	3400	kg
 174	27	5400	8 szeletes
 175	7	490	db
