@@ -1,0 +1,25 @@
+<%- include("partials/header") %>
+
+<section class="post">
+    <h1>Kapcsolat</h1>
+
+    <% if (message) { %><p class="message"><%= message %></p><% } %>
+
+    <form method="post" action="/kapcsolat">
+        <label for="nev">Név</label>
+        <input type="text" name="nev" id="nev" value="<%= adat.nev || "" %>">
+        <span class="message"><%= hibak.nev ? hibak.nev.message : "" %></span>
+
+        <label for="email">E-mail</label>
+        <input type="text" name="email" id="email" value="<%= adat.email || "" %>">
+        <span class="message"><%= hibak.email ? hibak.email.message : "" %></span>
+
+        <label for="uzenet">Üzenet</label>
+        <textarea name="uzenet" id="uzenet" rows="5"><%= adat.uzenet || "" %></textarea>
+        <span class="message"><%= hibak.uzenet ? hibak.uzenet.message : "" %></span>
+
+        <input type="submit" value="Küldés" class="primary">
+    </form>
+</section>
+
+<%- include("partials/footer") %>

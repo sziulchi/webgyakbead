@@ -25,5 +25,6 @@ router.get("/crud", isAdmin, controller.crudIndex);
     router.get("/crud/delete/:id", isAdmin, controller.crudDelete);
 router.get("/adatbazis", controller.adatbazisIndex);
 router.get("/kapcsolat", controller.kapcsolatIndex);
+router.post("/kapcsolat", controller.kapcsolatPost);
 router.get("/diagram", controller.diagramIndex);
 module.exports = router;

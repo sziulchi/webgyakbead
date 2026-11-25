@@ -1,17 +1,20 @@
 const User = require("../models/User");
 const suti = require("../models/suti");
-const ar = require("../models/ar")
-const tartalom = require("../models/tartalom")
+const ar = require("../models/ar");
+const tartalom = require("../models/tartalom");
+const uzenet = require("../models/uzenet");
 const bcrypt = require("bcrypt");
 
 exports.homeIndex = (req, res) => { res.render("home"); };
-exports.uzenetIndex = (req, res) => { res.render("uzenet"); };
 exports.crudIndex = (req, res) => { res.render("crud"); };
 exports.adatbazisIndex = (req, res) => { res.render("adatbazis"); };
 exports.kapcsolatIndex = (req, res) => { res.render("kapcsolat"); };
 exports.diagramIndex = (req, res ) => { res.render("diagram"); };
 
-
+exports.uzenetekIndex = async (req, res) => {
+    const uzenetek = await uzenet.find().sort({ createdAt: -1 });
+    res.render("uzenetek", { uzenetek });
+};
 
 exports.registerGet = (req, res) => { res.render("register"); };
 exports.registerPost = async (req, res) => {
@@ -84,4 +87,20 @@ exports.crudUpdate = async (req, res) => {
 exports.crudDelete = async (req, res) => {
     await suti.findByIdAndDelete(req.params.id);
     res.redirect("/crud");
+};
+
+exports.kapcsolatIndex = (req, res) => {
+    res.render("kapcsolat", { adat: {}, hibak: {} });
+};
+exports.kapcsolatPost = async (req, res) => {
+    try {
+        await uzenet.create({ nev: req.body.nev, email: req.body.email, uzenet: req.body.uzenet });
+        req.session.message = "Üzenet elküldve";
+        res.redirect("/kapcsolat");
+    } catch (err) {
+        if (err.name === "ValidationError") {
+            return res.render("kapcsolat", { adat: req.body, hibak: err.errors });
+        }
+        res.status(500).send("Szerverhiba.");
+    }
 };
