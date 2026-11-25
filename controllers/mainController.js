@@ -57,4 +57,5 @@ exports.adatbazisIndex = async (req, res) => {
     const arak = await ar.find();
     const tartalmak = await tartalom.find();
     res.render("adatbazis", {sutik, arak, tartalmak});
-}
+    console.log(sutik.length, arak.length, tartalmak.length);
+};

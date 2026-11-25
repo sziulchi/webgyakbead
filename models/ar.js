@@ -5,4 +5,4 @@ const arSchema = mongoose.Schema({
     ertek:Number,
     egyseg:String
 });
-module.exports = mongoose.model("Ar", arSchema);
+module.exports = mongoose.model("ar", arSchema, "ar");

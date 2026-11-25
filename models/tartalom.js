@@ -6,4 +6,4 @@ const tartalomSchema = new mongoose.Schema({
     mentes:String
 
 });
-module.exports = mongoose.model("tartalom", tartalomSchema)
+module.exports = mongoose.model("tartalom", tartalomSchema, "tartalom");

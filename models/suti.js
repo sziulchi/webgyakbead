@@ -7,4 +7,4 @@ const sutiSchema = mongoose.Schema({
     dijazott: Number
 
 });
-module.exports = mongoose.model("Suti", sutiSchema);
+module.exports = mongoose.model("suti", sutiSchema, "suti");
