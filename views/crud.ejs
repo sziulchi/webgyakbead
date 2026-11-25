@@ -1,4 +1,36 @@
 <%- include("partials/header") %>
-<h1>Admin page</h1>
-<p>For admin only.</p>
+<section class="post">
+    <h1>Setik</h1>
+    <a href="/crud/new">Új sütemnény</a>
+
+    <div class="table-wrapper">
+        <table class="alt">
+            <thead>
+                <tr>
+                    <th>Id</th>
+                    <th>Név</th>
+                    <th>Típus</th>
+                    <th>Díjazott</th>
+                    <th></th>
+                </tr>
+            </thead>
+
+            <tbody>
+                <% sutik.forEach(s => { %>
+                    <tr>
+                        <td><%= s.id %></td>
+                        <td><%= s.nev %> </td>
+                        <td><%= s.tipus %></td>
+                        <td><%= s.dijazott %></td>
+                        <td>    
+                            <a href="/crud/edit/<%= s._id %>">Edit</a>
+                            <a href="/crud/delete/<%= s._id %>">Delete</a>
+                        </td>
+                    </tr>
+                <% }) %>
+            </tbody>
+        </table>
+
+    </div>
+</section>
 <%- include("partials/footer") %>

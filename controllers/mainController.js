@@ -59,3 +59,29 @@ exports.adatbazisIndex = async (req, res) => {
     res.render("adatbazis", {sutik, arak, tartalmak});
     /*console.log(sutik.length, arak.length, tartalmak.length);*/
 };
+
+
+
+
+exports.crudIndex = async (req, res) => {
+    const sutik = await suti.find().sort({ id: 1 });
+    res.render("crud", { sutik });
+};
+exports.crudNew = (req, res) => { res.render("crud_new"); };
+exports.crudInsert = async (req, res) => {
+    const utolso = await suti.findOne().sort({ id: -1 });
+    await suti.create({ id: utolso.id + 1, nev: req.body.nev, tipus: req.body.tipus, dijazott: req.body.dijazott });
+    res.redirect("/crud");
+};
+exports.crudEdit = async (req, res) => {
+    const egySuti = await suti.findById(req.params.id);
+    res.render("crud_edit", { suti: egySuti });
+};
+exports.crudUpdate = async (req, res) => {
+    await suti.findByIdAndUpdate(req.body.id, { nev: req.body.nev, tipus: req.body.tipus, dijazott: req.body.dijazott });
+    res.redirect("/crud");
+};
+exports.crudDelete = async (req, res) => {
+    await suti.findByIdAndDelete(req.params.id);
+    res.redirect("/crud");
+};

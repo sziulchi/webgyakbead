@@ -1,0 +1,27 @@
+<%- include("partials/header") %>
+
+<section class="post">
+
+    <h1>Új sütemény</h1>
+
+
+    <form method="post" action="/crud/insert">
+
+        <label for="nev">Név</label>
+        <input type="text" name="nev" id="nev">
+
+        <label for="tipus">Típus</label>
+        <input type="text" name="tipus" id="tipus">
+
+        <label for="dijazott">Díjazott</label>
+        <select name="dijazott" id="dijazott">
+            <option value="0">Nem</option>
+            <option value="-1">Igen</option>
+        </select>
+
+       <input type="submit" value="Mentés" class="primary">
+
+    </form>
+</section>
+
+<%- include("partials/footer") %>
