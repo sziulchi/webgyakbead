@@ -1,0 +1,1872 @@
+[{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf12a"
+  },
+  "id": 1,
+  "sutiid": 32,
+  "ertek": 500,
+  "egyseg": "db"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf12b"
+  },
+  "id": 2,
+  "sutiid": 76,
+  "ertek": 10900,
+  "egyseg": "16 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf12c"
+  },
+  "id": 3,
+  "sutiid": 106,
+  "ertek": 4300,
+  "egyseg": "8 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf12d"
+  },
+  "id": 4,
+  "sutiid": 88,
+  "ertek": 300,
+  "egyseg": "db"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf12e"
+  },
+  "id": 5,
+  "sutiid": 116,
+  "ertek": 16200,
+  "egyseg": "24 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf12f"
+  },
+  "id": 6,
+  "sutiid": 135,
+  "ertek": 250,
+  "egyseg": "db"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf130"
+  },
+  "id": 7,
+  "sutiid": 127,
+  "ertek": 4400,
+  "egyseg": "kg"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf131"
+  },
+  "id": 8,
+  "sutiid": 50,
+  "ertek": 13400,
+  "egyseg": "24 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf132"
+  },
+  "id": 9,
+  "sutiid": 70,
+  "ertek": 700,
+  "egyseg": "db"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf133"
+  },
+  "id": 10,
+  "sutiid": 31,
+  "ertek": 5200,
+  "egyseg": "kg"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf134"
+  },
+  "id": 11,
+  "sutiid": 96,
+  "ertek": 3300,
+  "egyseg": "kg ​​"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf135"
+  },
+  "id": 12,
+  "sutiid": 116,
+  "ertek": 5700,
+  "egyseg": "8 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf136"
+  },
+  "id": 13,
+  "sutiid": 22,
+  "ertek": 9000,
+  "egyseg": "16 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf137"
+  },
+  "id": 14,
+  "sutiid": 138,
+  "ertek": 4400,
+  "egyseg": "kg"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf138"
+  },
+  "id": 15,
+  "sutiid": 112,
+  "ertek": 2900,
+  "egyseg": "kg"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf139"
+  },
+  "id": 16,
+  "sutiid": 58,
+  "ertek": 3200,
+  "egyseg": "kg"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf13a"
+  },
+  "id": 17,
+  "sutiid": 98,
+  "ertek": 10400,
+  "egyseg": "16 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf13b"
+  },
+  "id": 18,
+  "sutiid": 75,
+  "ertek": 2100,
+  "egyseg": "rúd"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf13c"
+  },
+  "id": 19,
+  "sutiid": 24,
+  "ertek": 11400,
+  "egyseg": "24 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf13d"
+  },
+  "id": 20,
+  "sutiid": 62,
+  "ertek": 600,
+  "egyseg": "db"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf13e"
+  },
+  "id": 21,
+  "sutiid": 61,
+  "ertek": 8400,
+  "egyseg": "16 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf13f"
+  },
+  "id": 22,
+  "sutiid": 105,
+  "ertek": 10900,
+  "egyseg": "16 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf140"
+  },
+  "id": 23,
+  "sutiid": 20,
+  "ertek": 4700,
+  "egyseg": "8 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf141"
+  },
+  "id": 24,
+  "sutiid": 123,
+  "ertek": 1800,
+  "egyseg": "rúd"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf142"
+  },
+  "id": 25,
+  "sutiid": 60,
+  "ertek": 8200,
+  "egyseg": "16 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf143"
+  },
+  "id": 26,
+  "sutiid": 24,
+  "ertek": 3900,
+  "egyseg": "8 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf144"
+  },
+  "id": 27,
+  "sutiid": 38,
+  "ertek": 4300,
+  "egyseg": "8 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf145"
+  },
+  "id": 28,
+  "sutiid": 126,
+  "ertek": 2100,
+  "egyseg": "rúd"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf146"
+  },
+  "id": 29,
+  "sutiid": 64,
+  "ertek": 750,
+  "egyseg": "db"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf147"
+  },
+  "id": 30,
+  "sutiid": 109,
+  "ertek": 300,
+  "egyseg": "db"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf148"
+  },
+  "id": 31,
+  "sutiid": 66,
+  "ertek": 350,
+  "egyseg": "db"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf149"
+  },
+  "id": 32,
+  "sutiid": 89,
+  "ertek": 13200,
+  "egyseg": "24 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf14a"
+  },
+  "id": 33,
+  "sutiid": 98,
+  "ertek": 15400,
+  "egyseg": "24 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf14b"
+  },
+  "id": 34,
+  "sutiid": 24,
+  "ertek": 7400,
+  "egyseg": "16 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf14c"
+  },
+  "id": 35,
+  "sutiid": 76,
+  "ertek": 5700,
+  "egyseg": "8 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf14d"
+  },
+  "id": 36,
+  "sutiid": 131,
+  "ertek": 250,
+  "egyseg": "db"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf14e"
+  },
+  "id": 37,
+  "sutiid": 50,
+  "ertek": 9200,
+  "egyseg": "16 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf14f"
+  },
+  "id": 38,
+  "sutiid": 55,
+  "ertek": 600,
+  "egyseg": "db"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf150"
+  },
+  "id": 39,
+  "sutiid": 87,
+  "ertek": 3400,
+  "egyseg": "kg"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf151"
+  },
+  "id": 40,
+  "sutiid": 4,
+  "ertek": 3500,
+  "egyseg": "koszorú"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf152"
+  },
+  "id": 41,
+  "sutiid": 8,
+  "ertek": 400,
+  "egyseg": "db"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf153"
+  },
+  "id": 42,
+  "sutiid": 100,
+  "ertek": 450,
+  "egyseg": "db"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf154"
+  },
+  "id": 43,
+  "sutiid": 129,
+  "ertek": 5300,
+  "egyseg": "8 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf155"
+  },
+  "id": 44,
+  "sutiid": 35,
+  "ertek": 4700,
+  "egyseg": "8 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf156"
+  },
+  "id": 45,
+  "sutiid": 47,
+  "ertek": 490,
+  "egyseg": "db"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf157"
+  },
+  "id": 46,
+  "sutiid": 89,
+  "ertek": 9000,
+  "egyseg": "16 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf158"
+  },
+  "id": 47,
+  "sutiid": 111,
+  "ertek": 3300,
+  "egyseg": "kg"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf159"
+  },
+  "id": 48,
+  "sutiid": 94,
+  "ertek": 400,
+  "egyseg": "db"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf15a"
+  },
+  "id": 49,
+  "sutiid": 42,
+  "ertek": 16200,
+  "egyseg": "24 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf15b"
+  },
+  "id": 50,
+  "sutiid": 80,
+  "ertek": 350,
+  "egyseg": "db"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf15c"
+  },
+  "id": 51,
+  "sutiid": 134,
+  "ertek": 4700,
+  "egyseg": "8 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf15d"
+  },
+  "id": 52,
+  "sutiid": 128,
+  "ertek": 4000,
+  "egyseg": "kg"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf15e"
+  },
+  "id": 53,
+  "sutiid": 90,
+  "ertek": 5200,
+  "egyseg": "kg"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf15f"
+  },
+  "id": 54,
+  "sutiid": 39,
+  "ertek": 13200,
+  "egyseg": "24 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf160"
+  },
+  "id": 55,
+  "sutiid": 71,
+  "ertek": 7400,
+  "egyseg": "16 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf161"
+  },
+  "id": 56,
+  "sutiid": 17,
+  "ertek": 3400,
+  "egyseg": "kg"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf162"
+  },
+  "id": 57,
+  "sutiid": 68,
+  "ertek": 18400,
+  "egyseg": "24 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf163"
+  },
+  "id": 58,
+  "sutiid": 81,
+  "ertek": 8200,
+  "egyseg": "16 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf164"
+  },
+  "id": 59,
+  "sutiid": 134,
+  "ertek": 9000,
+  "egyseg": "16 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf165"
+  },
+  "id": 60,
+  "sutiid": 108,
+  "ertek": 11400,
+  "egyseg": "24 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf166"
+  },
+  "id": 61,
+  "sutiid": 97,
+  "ertek": 5200,
+  "egyseg": "kg"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf167"
+  },
+  "id": 62,
+  "sutiid": 81,
+  "ertek": 4300,
+  "egyseg": "8 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf168"
+  },
+  "id": 63,
+  "sutiid": 44,
+  "ertek": 3800,
+  "egyseg": "kg"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf169"
+  },
+  "id": 64,
+  "sutiid": 72,
+  "ertek": 5700,
+  "egyseg": "8 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf16a"
+  },
+  "id": 65,
+  "sutiid": 49,
+  "ertek": 250,
+  "egyseg": "db"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf16b"
+  },
+  "id": 66,
+  "sutiid": 48,
+  "ertek": 350,
+  "egyseg": "db"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf16c"
+  },
+  "id": 67,
+  "sutiid": 14,
+  "ertek": 350,
+  "egyseg": "db"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf16d"
+  },
+  "id": 68,
+  "sutiid": 107,
+  "ertek": 12200,
+  "egyseg": "24 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf16e"
+  },
+  "id": 69,
+  "sutiid": 27,
+  "ertek": 15400,
+  "egyseg": "24 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf16f"
+  },
+  "id": 70,
+  "sutiid": 106,
+  "ertek": 12100,
+  "egyseg": "24 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf170"
+  },
+  "id": 71,
+  "sutiid": 74,
+  "ertek": 7400,
+  "egyseg": "16 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf171"
+  },
+  "id": 72,
+  "sutiid": 40,
+  "ertek": 5700,
+  "egyseg": "8 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf172"
+  },
+  "id": 73,
+  "sutiid": 133,
+  "ertek": 450,
+  "egyseg": "db"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf173"
+  },
+  "id": 74,
+  "sutiid": 77,
+  "ertek": 490,
+  "egyseg": "db"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf174"
+  },
+  "id": 75,
+  "sutiid": 22,
+  "ertek": 13200,
+  "egyseg": "24 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf175"
+  },
+  "id": 76,
+  "sutiid": 119,
+  "ertek": 9000,
+  "egyseg": "16 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf176"
+  },
+  "id": 77,
+  "sutiid": 120,
+  "ertek": 3400,
+  "egyseg": "kg"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf177"
+  },
+  "id": 78,
+  "sutiid": 105,
+  "ertek": 5700,
+  "egyseg": "8 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf178"
+  },
+  "id": 79,
+  "sutiid": 119,
+  "ertek": 13200,
+  "egyseg": "24 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf179"
+  },
+  "id": 80,
+  "sutiid": 99,
+  "ertek": 4600,
+  "egyseg": "kg"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf17a"
+  },
+  "id": 81,
+  "sutiid": 61,
+  "ertek": 12200,
+  "egyseg": "24 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf17b"
+  },
+  "id": 82,
+  "sutiid": 93,
+  "ertek": 4200,
+  "egyseg": "kg"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf17c"
+  },
+  "id": 83,
+  "sutiid": 59,
+  "ertek": 13200,
+  "egyseg": "24 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf17d"
+  },
+  "id": 84,
+  "sutiid": 82,
+  "ertek": 5700,
+  "egyseg": "8 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf17e"
+  },
+  "id": 85,
+  "sutiid": 56,
+  "ertek": 600,
+  "egyseg": "db"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf17f"
+  },
+  "id": 86,
+  "sutiid": 23,
+  "ertek": 550,
+  "egyseg": "db"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf180"
+  },
+  "id": 87,
+  "sutiid": 81,
+  "ertek": 12100,
+  "egyseg": "24 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf181"
+  },
+  "id": 88,
+  "sutiid": 67,
+  "ertek": 500,
+  "egyseg": "db"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf182"
+  },
+  "id": 89,
+  "sutiid": 68,
+  "ertek": 6400,
+  "egyseg": "8 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf183"
+  },
+  "id": 90,
+  "sutiid": 38,
+  "ertek": 8200,
+  "egyseg": "16 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf184"
+  },
+  "id": 91,
+  "sutiid": 139,
+  "ertek": 4700,
+  "egyseg": "8 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf185"
+  },
+  "id": 92,
+  "sutiid": 30,
+  "ertek": 530,
+  "egyseg": "db"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf186"
+  },
+  "id": 93,
+  "sutiid": 95,
+  "ertek": 16200,
+  "egyseg": "24 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf187"
+  },
+  "id": 94,
+  "sutiid": 101,
+  "ertek": 400,
+  "egyseg": "db"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf188"
+  },
+  "id": 95,
+  "sutiid": 65,
+  "ertek": 400,
+  "egyseg": "db"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf189"
+  },
+  "id": 96,
+  "sutiid": 10,
+  "ertek": 12100,
+  "egyseg": "24 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf18a"
+  },
+  "id": 97,
+  "sutiid": 59,
+  "ertek": 9000,
+  "egyseg": "16 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf18b"
+  },
+  "id": 98,
+  "sutiid": 119,
+  "ertek": 4700,
+  "egyseg": "8 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf18c"
+  },
+  "id": 99,
+  "sutiid": 82,
+  "ertek": 16200,
+  "egyseg": "24 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf18d"
+  },
+  "id": 100,
+  "sutiid": 3,
+  "ertek": 3300,
+  "egyseg": "kg"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf18e"
+  },
+  "id": 101,
+  "sutiid": 104,
+  "ertek": 4200,
+  "egyseg": "kg"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf18f"
+  },
+  "id": 102,
+  "sutiid": 110,
+  "ertek": 530,
+  "egyseg": "db"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf190"
+  },
+  "id": 103,
+  "sutiid": 1,
+  "ertek": 300,
+  "egyseg": "db"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf191"
+  },
+  "id": 104,
+  "sutiid": 25,
+  "ertek": 8200,
+  "egyseg": "16 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf192"
+  },
+  "id": 105,
+  "sutiid": 40,
+  "ertek": 16200,
+  "egyseg": "24 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf193"
+  },
+  "id": 106,
+  "sutiid": 36,
+  "ertek": 490,
+  "egyseg": "db"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf194"
+  },
+  "id": 107,
+  "sutiid": 124,
+  "ertek": 3900,
+  "egyseg": "8 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf195"
+  },
+  "id": 108,
+  "sutiid": 16,
+  "ertek": 530,
+  "egyseg": "db"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf196"
+  },
+  "id": 109,
+  "sutiid": 29,
+  "ertek": 3500,
+  "egyseg": "koszorú"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf197"
+  },
+  "id": 110,
+  "sutiid": 116,
+  "ertek": 10900,
+  "egyseg": "16 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf198"
+  },
+  "id": 111,
+  "sutiid": 71,
+  "ertek": 3900,
+  "egyseg": "8 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf199"
+  },
+  "id": 112,
+  "sutiid": 2,
+  "ertek": 500,
+  "egyseg": "db"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf19a"
+  },
+  "id": 113,
+  "sutiid": 71,
+  "ertek": 11400,
+  "egyseg": "24 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf19b"
+  },
+  "id": 114,
+  "sutiid": 10,
+  "ertek": 4300,
+  "egyseg": "8 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf19c"
+  },
+  "id": 115,
+  "sutiid": 108,
+  "ertek": 3900,
+  "egyseg": "8 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf19d"
+  },
+  "id": 116,
+  "sutiid": 69,
+  "ertek": 450,
+  "egyseg": "db"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf19e"
+  },
+  "id": 117,
+  "sutiid": 39,
+  "ertek": 9000,
+  "egyseg": "16 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf19f"
+  },
+  "id": 118,
+  "sutiid": 25,
+  "ertek": 4300,
+  "egyseg": "8 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1a0"
+  },
+  "id": 119,
+  "sutiid": 107,
+  "ertek": 8400,
+  "egyseg": "16 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1a1"
+  },
+  "id": 120,
+  "sutiid": 5,
+  "ertek": 9000,
+  "egyseg": "12 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1a2"
+  },
+  "id": 121,
+  "sutiid": 106,
+  "ertek": 8200,
+  "egyseg": "16 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1a3"
+  },
+  "id": 122,
+  "sutiid": 114,
+  "ertek": 450,
+  "egyseg": "db"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1a4"
+  },
+  "id": 123,
+  "sutiid": 26,
+  "ertek": 400,
+  "egyseg": "db"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1a5"
+  },
+  "id": 124,
+  "sutiid": 82,
+  "ertek": 10900,
+  "egyseg": "16 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1a6"
+  },
+  "id": 125,
+  "sutiid": 28,
+  "ertek": 8200,
+  "egyseg": "16 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1a7"
+  },
+  "id": 126,
+  "sutiid": 42,
+  "ertek": 10900,
+  "egyseg": "16 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1a8"
+  },
+  "id": 127,
+  "sutiid": 35,
+  "ertek": 13200,
+  "egyseg": "24 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1a9"
+  },
+  "id": 128,
+  "sutiid": 74,
+  "ertek": 3900,
+  "egyseg": "8 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1aa"
+  },
+  "id": 129,
+  "sutiid": 19,
+  "ertek": 450,
+  "egyseg": "db"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1ab"
+  },
+  "id": 130,
+  "sutiid": 25,
+  "ertek": 12100,
+  "egyseg": "24 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1ac"
+  },
+  "id": 131,
+  "sutiid": 125,
+  "ertek": 5700,
+  "egyseg": "8 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1ad"
+  },
+  "id": 132,
+  "sutiid": 95,
+  "ertek": 5700,
+  "egyseg": "8 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1ae"
+  },
+  "id": 133,
+  "sutiid": 34,
+  "ertek": 1700,
+  "egyseg": "rúd"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1af"
+  },
+  "id": 134,
+  "sutiid": 121,
+  "ertek": 530,
+  "egyseg": "db"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1b0"
+  },
+  "id": 135,
+  "sutiid": 76,
+  "ertek": 16200,
+  "egyseg": "24 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1b1"
+  },
+  "id": 136,
+  "sutiid": 13,
+  "ertek": 400,
+  "egyseg": "db"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1b2"
+  },
+  "id": 137,
+  "sutiid": 60,
+  "ertek": 12100,
+  "egyseg": "24 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1b3"
+  },
+  "id": 138,
+  "sutiid": 33,
+  "ertek": 350,
+  "egyseg": "db"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1b4"
+  },
+  "id": 139,
+  "sutiid": 132,
+  "ertek": 530,
+  "egyseg": "db"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1b5"
+  },
+  "id": 140,
+  "sutiid": 117,
+  "ertek": 9900,
+  "egyseg": "16 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1b6"
+  },
+  "id": 141,
+  "sutiid": 27,
+  "ertek": 10400,
+  "egyseg": "16 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1b7"
+  },
+  "id": 142,
+  "sutiid": 18,
+  "ertek": 490,
+  "egyseg": "db"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1b8"
+  },
+  "id": 143,
+  "sutiid": 124,
+  "ertek": 7400,
+  "egyseg": "16 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1b9"
+  },
+  "id": 144,
+  "sutiid": 122,
+  "ertek": 5200,
+  "egyseg": "kg"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1ba"
+  },
+  "id": 145,
+  "sutiid": 59,
+  "ertek": 4700,
+  "egyseg": "8 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1bb"
+  },
+  "id": 146,
+  "sutiid": 124,
+  "ertek": 11400,
+  "egyseg": "24 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1bc"
+  },
+  "id": 147,
+  "sutiid": 134,
+  "ertek": 13200,
+  "egyseg": "24 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1bd"
+  },
+  "id": 148,
+  "sutiid": 45,
+  "ertek": 450,
+  "egyseg": "db"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1be"
+  },
+  "id": 149,
+  "sutiid": 63,
+  "ertek": 350,
+  "egyseg": "db"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1bf"
+  },
+  "id": 150,
+  "sutiid": 6,
+  "ertek": 3900,
+  "egyseg": "8 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1c0"
+  },
+  "id": 151,
+  "sutiid": 28,
+  "ertek": 4300,
+  "egyseg": "8 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1c1"
+  },
+  "id": 152,
+  "sutiid": 37,
+  "ertek": 3900,
+  "egyseg": "8 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1c2"
+  },
+  "id": 153,
+  "sutiid": 52,
+  "ertek": 5000,
+  "egyseg": "kg"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1c3"
+  },
+  "id": 154,
+  "sutiid": 61,
+  "ertek": 4500,
+  "egyseg": "8 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1c4"
+  },
+  "id": 155,
+  "sutiid": 86,
+  "ertek": 600,
+  "egyseg": "db"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1c5"
+  },
+  "id": 156,
+  "sutiid": 6,
+  "ertek": 7400,
+  "egyseg": "16 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1c6"
+  },
+  "id": 157,
+  "sutiid": 37,
+  "ertek": 7400,
+  "egyseg": "16 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1c7"
+  },
+  "id": 158,
+  "sutiid": 11,
+  "ertek": 490,
+  "egyseg": "db"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1c8"
+  },
+  "id": 159,
+  "sutiid": 108,
+  "ertek": 7400,
+  "egyseg": "16 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1c9"
+  },
+  "id": 160,
+  "sutiid": 35,
+  "ertek": 9000,
+  "egyseg": "16 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1ca"
+  },
+  "id": 161,
+  "sutiid": 107,
+  "ertek": 4500,
+  "egyseg": "8 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1cb"
+  },
+  "id": 162,
+  "sutiid": 6,
+  "ertek": 11400,
+  "egyseg": "24 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1cc"
+  },
+  "id": 163,
+  "sutiid": 79,
+  "ertek": 4000,
+  "egyseg": "kg"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1cd"
+  },
+  "id": 164,
+  "sutiid": 60,
+  "ertek": 4300,
+  "egyseg": "8 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1ce"
+  },
+  "id": 165,
+  "sutiid": 21,
+  "ertek": 5700,
+  "egyseg": "8 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1cf"
+  },
+  "id": 166,
+  "sutiid": 28,
+  "ertek": 12100,
+  "egyseg": "24 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1d0"
+  },
+  "id": 167,
+  "sutiid": 15,
+  "ertek": 5000,
+  "egyseg": "kg"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1d1"
+  },
+  "id": 168,
+  "sutiid": 21,
+  "ertek": 5700,
+  "egyseg": "8 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1d2"
+  },
+  "id": 169,
+  "sutiid": 37,
+  "ertek": 11400,
+  "egyseg": "24 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1d3"
+  },
+  "id": 170,
+  "sutiid": 74,
+  "ertek": 11400,
+  "egyseg": "24 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1d4"
+  },
+  "id": 171,
+  "sutiid": 103,
+  "ertek": 650,
+  "egyseg": "db"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1d5"
+  },
+  "id": 172,
+  "sutiid": 43,
+  "ertek": 4200,
+  "egyseg": "kg"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1d6"
+  },
+  "id": 173,
+  "sutiid": 12,
+  "ertek": 3400,
+  "egyseg": "kg"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1d7"
+  },
+  "id": 174,
+  "sutiid": 27,
+  "ertek": 5400,
+  "egyseg": "8 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1d8"
+  },
+  "id": 175,
+  "sutiid": 7,
+  "ertek": 490,
+  "egyseg": "db"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1d9"
+  },
+  "id": 176,
+  "sutiid": 84,
+  "ertek": 5200,
+  "egyseg": "kg"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1da"
+  },
+  "id": 177,
+  "sutiid": 115,
+  "ertek": 3600,
+  "egyseg": "kg"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1db"
+  },
+  "id": 178,
+  "sutiid": 51,
+  "ertek": 4000,
+  "egyseg": "kg"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1dc"
+  },
+  "id": 179,
+  "sutiid": 118,
+  "ertek": 450,
+  "egyseg": "db"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1dd"
+  },
+  "id": 180,
+  "sutiid": 41,
+  "ertek": 530,
+  "egyseg": "db"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1de"
+  },
+  "id": 181,
+  "sutiid": 135,
+  "ertek": 400,
+  "egyseg": "db"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1df"
+  },
+  "id": 182,
+  "sutiid": 73,
+  "ertek": 5400,
+  "egyseg": "8 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1e0"
+  },
+  "id": 183,
+  "sutiid": 10,
+  "ertek": 8200,
+  "egyseg": "16 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1e1"
+  },
+  "id": 184,
+  "sutiid": 98,
+  "ertek": 5400,
+  "egyseg": "8 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1e2"
+  },
+  "id": 185,
+  "sutiid": 113,
+  "ertek": 850,
+  "egyseg": "db"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1e3"
+  },
+  "id": 186,
+  "sutiid": 130,
+  "ertek": 350,
+  "egyseg": "db"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1e4"
+  },
+  "id": 187,
+  "sutiid": 39,
+  "ertek": 4700,
+  "egyseg": "8 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1e5"
+  },
+  "id": 188,
+  "sutiid": 136,
+  "ertek": 3400,
+  "egyseg": "kg"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1e6"
+  },
+  "id": 189,
+  "sutiid": 83,
+  "ertek": 650,
+  "egyseg": "db"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1e7"
+  },
+  "id": 190,
+  "sutiid": 91,
+  "ertek": 800,
+  "egyseg": "20 dkg"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1e8"
+  },
+  "id": 191,
+  "sutiid": 46,
+  "ertek": 5200,
+  "egyseg": "kg"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1e9"
+  },
+  "id": 192,
+  "sutiid": 102,
+  "ertek": 330,
+  "egyseg": "db"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1ea"
+  },
+  "id": 193,
+  "sutiid": 95,
+  "ertek": 10900,
+  "egyseg": "16 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1eb"
+  },
+  "id": 194,
+  "sutiid": 54,
+  "ertek": 580,
+  "egyseg": "db"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1ec"
+  },
+  "id": 195,
+  "sutiid": 57,
+  "ertek": 530,
+  "egyseg": "db"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1ed"
+  },
+  "id": 196,
+  "sutiid": 22,
+  "ertek": 4700,
+  "egyseg": "8 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1ee"
+  },
+  "id": 197,
+  "sutiid": 92,
+  "ertek": 450,
+  "egyseg": "db"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1ef"
+  },
+  "id": 198,
+  "sutiid": 68,
+  "ertek": 12400,
+  "egyseg": "16 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1f0"
+  },
+  "id": 199,
+  "sutiid": 42,
+  "ertek": 5700,
+  "egyseg": "8 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1f1"
+  },
+  "id": 200,
+  "sutiid": 40,
+  "ertek": 10900,
+  "egyseg": "16 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1f2"
+  },
+  "id": 201,
+  "sutiid": 9,
+  "ertek": 450,
+  "egyseg": "db"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1f3"
+  },
+  "id": 202,
+  "sutiid": 78,
+  "ertek": 4200,
+  "egyseg": "kg"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1f4"
+  },
+  "id": 203,
+  "sutiid": 85,
+  "ertek": 500,
+  "egyseg": "db"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1f5"
+  },
+  "id": 204,
+  "sutiid": 137,
+  "ertek": 600,
+  "egyseg": "db"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1f6"
+  },
+  "id": 205,
+  "sutiid": 50,
+  "ertek": 4900,
+  "egyseg": "8 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1f7"
+  },
+  "id": 206,
+  "sutiid": 38,
+  "ertek": 12100,
+  "egyseg": "24 szeletes"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1f8"
+  },
+  "id": 207,
+  "sutiid": 53,
+  "ertek": 4200,
+  "egyseg": "kg"
+},
+{
+  "_id": {
+    "$oid": "6b069346c32eab00f08cf1f9"
+  },
+  "id": 208,
+  "sutiid": 89,
+  "ertek": 4700,
+  "egyseg": "8 szeletes"
+}]
