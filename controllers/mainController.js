@@ -9,11 +9,19 @@ exports.homeIndex = (req, res) => { res.render("home"); };
 exports.crudIndex = (req, res) => { res.render("crud"); };
 exports.adatbazisIndex = (req, res) => { res.render("adatbazis"); };
 exports.kapcsolatIndex = (req, res) => { res.render("kapcsolat"); };
-exports.diagramIndex = (req, res ) => { res.render("diagram"); };
 
 exports.uzenetekIndex = async (req, res) => {
     const uzenetek = await uzenet.find().sort({ createdAt: -1 });
     res.render("uzenetek", { uzenetek });
+};
+
+exports.diagramIndex = async (req, res) => {
+    const sutik = await suti.find();
+    const darab = {};
+    sutik.forEach(s => {
+        darab[s.tipus] = (darab[s.tipus] || 0) + 1;
+    });
+    res.render("diagram", { tipusok: Object.keys(darab), darabok: Object.values(darab) });
 };
 
 exports.registerGet = (req, res) => { res.render("register"); };

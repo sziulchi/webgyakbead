@@ -1,0 +1,23 @@
+<%- include("partials/header") %>
+
+<section class="post">
+    <h1>Sütemények típusonként</h1>
+
+    <canvas id="diagram"></canvas>
+</section>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+    new Chart(document.getElementById("diagram"), {
+        type: "bar",
+        data: {
+            labels: <%- JSON.stringify(tipusok) %>,
+            datasets: [{
+                label: "Sütemények száma",
+                data: <%- JSON.stringify(darabok) %>
+            }]
+        }
+    });
+</script>
+
+<%- include("partials/footer") %>
