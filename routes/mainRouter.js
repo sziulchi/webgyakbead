@@ -16,7 +16,7 @@ router.post("/register", controller.registerPost);
 router.get("/login", controller.loginGet);
 router.post("/login", controller.loginPost);
 router.get("/logout", controller.logout);
-router.get("/uzenetek", isLoggedIn, controller.uzenetIndex);
+router.get("/uzenetek", isLoggedIn, controller.uzenetekIndex);
 router.get("/crud", isAdmin, controller.crudIndex);
     router.get("/crud/new", isAdmin, controller.crudNew);
     router.post("/crud/insert", isAdmin, controller.crudInsert);
